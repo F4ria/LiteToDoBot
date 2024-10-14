@@ -2,6 +2,8 @@
 
 LiteToDoBot is a simple Telegram bot designed to help you manage your tasks efficiently with ease. With LiteToDoBot, you can easily add, list, edit, and delete tasks right from your Telegram chat.
 
+<img src="./sample.jpg" width="60%" height="60%">
+
 ## Commands
 
 The bot supports the following commands:
