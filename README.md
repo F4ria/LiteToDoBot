@@ -23,7 +23,7 @@ The bot supports the following commands:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/F4ria/LiteToDoBot.git
+   git clone https://github.com/Fariacool/LiteToDoBot.git
    cd LiteToDoBot
    ```
 
